@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/message_button">
+        <file alias="icon">Res/Message_Button/message.png</file>
+        <file alias="icon_new">Res/Message_Button/message_new.png</file>
+        <file alias="bg">Res/Message_Button/button_bg.png</file>
+    </qresource>
+</RCC>
